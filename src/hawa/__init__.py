@@ -1,2 +1,1 @@
-def hello() -> str:
-    return "Hello from hawa!"
+"""Hawa: PM2.5 analysis for ten Indian cities."""
